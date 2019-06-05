@@ -1,0 +1,62 @@
+* <20-09-2018>
+** À faire:
+   - Programme qui affiche HelloWorld
+   - Programme qui fait bouger le moteur
+
+* <27-09-2018>
+** À faire:
+   - Changer le firmware (SDK mindstorm)
+   - Programme qui affiche HelloWorld
+   - Programme qui fait bouger le moteur
+   - Plugin LeJOS pour Eclipse 
+
+
+* <04-10-2018>
+** Fait:
+   - Rendu EV3
+   - HelloWorld + Bouger un moteur
+** À faire:
+   - Faire bouger les moteurs avec vitesses differentes
+   - Programme de apprentissage de couleurs
+   - Programme de reconnaisance de couleurs
+
+* <25-10-2018>
+** Fait:
+   - Moteurs bougent
+   - Problèmes avec le capteur (NST --> EV 3)
+** À faire:
+   - Programme de apprentissage de couleurs
+   - Programme de reconnaisance de couleurs
+
+* <08-11-2018>
+* Fait:
+  - Premier apprentissage de couleurs
+* À faire:
+  - Ameliorer l'apprentissage de couleurs
+  - Modifier algo reconnaissance
+  - Monter suiveur de ligne
+
+
+* <29-11-2018>
+** Fait:
+   - En train de monter le suiveur
+   - Algorithme de apprentissage
+** À faire:
+   - Algo de reconnaissance de couleurs
+   - Algo de suivi de ligne 
+
+* <13-12-2018>
+** Fait:
+   - Montage suiveur
+   - Suivi de ligne droite
+   - Suivi de ligne courbe
+** A faire:
+   - Améliorer algo reconnaissance
+
+* <17-01-2019>
+** Fait:
+   - algo reconnaissance corrigé
+   - fonctionne sur circuits simples
+** A faire:
+   - tester sur des tapis plus compliqués
+   - *utiliser git*
